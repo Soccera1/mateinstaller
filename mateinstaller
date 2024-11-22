@@ -1,0 +1,3 @@
+#!/bin/bash
+
+emerge -v xfce4-meta
